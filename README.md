@@ -1,4 +1,6 @@
-# frenchiefinder
+# Frenchie Finder
+
+This is a HTML landing site using CSS and Bootstrap.
 
 ## Live
 
